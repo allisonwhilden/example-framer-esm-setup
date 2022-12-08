@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 
 const style: React.CSSProperties = {
-  backgroundColor: "red",
+  backgroundColor: "green",
   display: "inline-block",
   width: 100,
   height: 100,
